@@ -21,7 +21,7 @@
   # url: "#"
   description: (Drug-Drug, Target-Target, Drug-Target) interaction similarity 데이터 기반으로 여러 논문들의 교차검증을 통한 머신러닝 implement 및 AUC, AUPR 분석
   
-  - project: Sodo Project
+- project: Sodo Project
   role: Co-Founder
   duration: Nov,2020 &mdash; Present
   # url: "#"
