@@ -1,6 +1,6 @@
 # Site settings
-title: ""Jun Ho Lee""
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Jun Ho Lee"
+description: "Jun Ho's resume"
 
 # Build settings
 markdown: kramdown
