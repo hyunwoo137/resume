@@ -2,15 +2,27 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: 콜로키아 자율형 프로젝트 경진대회
+  role: Organizer
+  duration: Mar,2019 &mdash; Apr,2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
+  description: open api로 얼굴인식인공지능 implement - 우승
+  
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: SAT-자율형 프로젝트 대회
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: Jan,2020 &mdash; Apr,2020 
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 급성 백혈병 데이터(ALL,AML) 분자분류 및 <naive bayes, neural network, random forest, SVM, logestic regression, K-means> 성능 비교
+  
+- project: Drug-Target repositioning
+  role: Co-Founder
+  duration: Jun,2020 &mdash; Present
+  # url: "#"
+  description: (Drug-Drug, Target-Target, Drug-Target) interaction similarity 데이터 기반으로 여러 논문들의 교차검증을 통한 머신러닝 implement 및 AUC, AUPR 분석
+  
+  - project: Sodo Project
+  role: Co-Founder
+  duration: Nov,2020 &mdash; Present
+  # url: "#"
+  description: gcp를 이용한 ml& dl 모델링 기법 개발
